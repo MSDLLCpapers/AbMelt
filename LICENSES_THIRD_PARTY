@@ -1,0 +1,4 @@
+Required Software dependencies and licensing
+  MOE - https://www.chemcomp.com
+  Gromacs - http://www.gromacs.org
+  Python - propka, anarci, mdtraj, MDAnalysis, sklearn, skopt, xgboost, cuml, cudf, cupy, ray, mlxtend, gromacswrapper

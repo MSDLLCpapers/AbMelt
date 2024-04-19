@@ -1,0 +1,9 @@
+,model,best_score,best_stds,best_params
+0,linearregression,-0.8936756542575046,0.6702196645259658,"OrderedDict([('alpha', 41012.88068149976)])"
+1,elasticnet,-0.7316545631315672,0.5200038723580812,"OrderedDict([('alpha', 1e-06), ('l1_ratio', 0)])"
+2,knn,-0.8604915944619846,0.8013815327764032,"OrderedDict([('leaf_size', 2), ('n_neighbors', 2), ('p', 1)])"
+3,svm,-0.7516445258935986,0.9448374866381934,"OrderedDict([('C', 0.1), ('gamma', 0.0001)])"
+4,decisiontree,-0.6973712044608563,0.45219348112971963,"OrderedDict([('max_depth', 10), ('max_features', 'auto'), ('max_leaf_nodes', 2), ('splitter', 'random')])"
+5,randomforest,-0.7022899481406814,0.6124159977399819,"OrderedDict([('criterion', 'absolute_error'), ('max_features', 'sqrt'), ('n_estimators', 10)])"
+6,adaboost,-0.6224640569246049,0.6659801688800693,"OrderedDict([('loss', 'linear'), ('n_estimators', 155)])"
+7,xgboost,-0.8574524347161654,0.6331617236064617,"OrderedDict([('max_depth', 1), ('tree_method', 'approx')])"

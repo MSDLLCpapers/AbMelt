@@ -1,0 +1,9 @@
+,model,best_score,best_stds,best_params
+0,linearregression,-0.7677292396058588,0.7876664036515241,"OrderedDict([('alpha', 999991.9061333968)])"
+1,elasticnet,-0.7676125536458921,0.7876342156906624,"OrderedDict([('alpha', 6.7574460847084525), ('l1_ratio', 0)])"
+2,knn,-0.7186558395100441,0.7832266075013948,"OrderedDict([('leaf_size', 1), ('n_neighbors', 2), ('p', 2)])"
+3,svm,-0.36850909968670703,0.3136319136943761,"OrderedDict([('C', 99.05766402095773), ('gamma', 13.073869413374505)])"
+4,decisiontree,-0.6594446660773877,0.7336876884806259,"OrderedDict([('max_depth', 1), ('max_features', 'auto'), ('max_leaf_nodes', 9), ('splitter', 'random')])"
+5,randomforest,-0.7233764806698176,0.7491130069608595,"OrderedDict([('criterion', 'absolute_error'), ('max_features', 'log2'), ('n_estimators', 842)])"
+6,adaboost,-0.7193296824028148,0.7780284815030216,"OrderedDict([('loss', 'exponential'), ('n_estimators', 10)])"
+7,xgboost,-0.6267166709332997,0.7102754220208274,"OrderedDict([('max_depth', 2), ('tree_method', 'approx')])"
