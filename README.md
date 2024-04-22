@@ -106,7 +106,7 @@ python ./src/structure.py --h='H_SEQ' --l=L_SEQ' --output='mAb.pdb'
 	2. run ray_cpu_cluster.sh
 	3. first bash script collects cpu nodes as specified in the PBS command utilizing ray distributed
 	4. second executes descriptor selection (recursive and exhaustive) by running rf_rfs.py and rf_efs.py
-	5. third executes ml regressor training with skopt bayesian optimzation by runnung predictors.py
+	5. third executes ml regressor training with skopt bayesian optimzation by runnung predictors.py 
 - AbMelt automation of descriptor selection and regression utilzes several libraries
 - compute can be accelerated using RAPIDS implementation of scikit-learn regressors
 - compute can be distrubted using ray distributed
