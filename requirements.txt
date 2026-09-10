@@ -34,7 +34,7 @@ colorful==0.5.6
 comm==0.1.0
 confluent-kafka==1.7.0
 contourpy==1.0.6
-cryptography==42.0.4
+cryptography==50.0.0
 cubinlinker==0.2.0
 cucim==22.10.0
 cuda-python==11.7.1
