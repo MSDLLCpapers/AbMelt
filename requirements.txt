@@ -21,7 +21,7 @@ bokeh==2.4.3
 branca==0.6.0
 brotlipy==0.7.0
 cachetools==5.2.0
-certifi==2022.12.7
+certifi==2026.10.19
 cffi==1.15.1
 charset-normalizer==2.1.1
 click==8.1.3
