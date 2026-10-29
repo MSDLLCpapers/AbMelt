@@ -116,7 +116,7 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 matplotlib-inline==0.1.6
-mistune==2.0.4
+mistune==3.3.3
 mlxtend==0.21.0
 msgpack==1.0.4
 multidict==6.0.2
@@ -327,7 +327,7 @@ matplotlib-inline==0.1.6
 mda-xdrlib==0.2.0
 MDAnalysis==2.6.1
 mdtraj==1.9.9
-mistune==3.0.2
+mistune==3.3.3
 mmtf-python==1.1.3
 more-itertools==10.2.0
 mpmath==1.3.0
