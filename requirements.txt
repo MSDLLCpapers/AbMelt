@@ -124,7 +124,7 @@ multipledispatch==0.6.0
 munch==2.5.0
 munkres==1.1.4
 nbclient==0.6.7
-nbconvert==7.0.0
+nbconvert==7.17.2
 nbformat==5.4.0
 nest-asyncio==1.5.5
 networkx==2.6.3
@@ -335,7 +335,7 @@ mrcfile==1.4.3
 msgpack==1.0.6
 munkres==1.1.4
 nbclient==0.9.0
-nbconvert==7.16.2
+nbconvert==7.17.2
 nbformat==5.9.2
 nest-asyncio==1.5.8
 netCDF4==1.6.5
