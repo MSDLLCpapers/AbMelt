@@ -66,7 +66,7 @@ fastapi==0.109.1
 fastavro==1.7.0
 fastjsonschema==2.16.1
 fastrlock==0.8
-filelock==3.9.0
+filelock==4.2.1
 Fiona==1.8.22
 flit_core==3.8.0
 folium==0.13.0
